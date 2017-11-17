@@ -3,35 +3,35 @@
 After reviewing the survey schema and playing with the multiple choice responses in XL, I figured there is a lot to be learned from this dataset about the data scientists population, including, but not limited to, who they are, where they work and what they do, what skills they have, how they learn and how they find work. Below I have outlined the questions that constitute the path I follow in my exploratory analysis.
 
 #### Survey Statistics
-- How many survey responders consider themselves data scientists?
+- How many survey responders consider themselves data scientists (DS)?
 
 #### Demographics
- - country, gender, age, academic background?
+ - DS population: country, gender, age, academic background?
 
 #### Job Particulars
- - What are their job roles? <br>
- - What are the industries they work in? <br>
- - How experienced are they? <br>
- - What are their job functions? <br>
- - What do they spend their time on? <br>
+ - What are DS population job roles? <br>
+ - What are the industries DS work in? <br>
+ - How experienced are DS? <br>
+ - What are DS job functions? <br>
+ - What do DS spend their time on? <br>
 
 #### Skills, Tools, Languages
- - What skills do they possess? <br>
- - What kind of tools do they use? <br>
- - What programming languages do they use?
+ - What skills do DS possess? <br>
+ - What kind of tools do DS use? <br>
+ - What programming languages do DS use?
 
 #### Work Environment
- - How satisfied are they with their job? <br>
- - What challenges do they face at work?
+ - How satisfied are DS with their job? <br>
+ - What challenges do DS face at work?
 
 #### Learning
- - How do they continue to learn data science?
+ - How do DS squire data science skills?
 
 #### Compensation
- - What kind of money do they make?
+ - What kind of money do DS make?
 
 #### Job Search
- - How did they find their job?
+ - How did DS find their job?
  
 
 ## Structure
