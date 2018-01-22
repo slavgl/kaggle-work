@@ -1,3 +1,3 @@
-<b> Pover-T Tests: Predicting Poverty </b>
+<h2> Pover-T Tests: Predicting Poverty </h2>
 
-Competition Goal: help World Bank develop more efficient models for measuring poverty by identifying its strongest predictors based on survey data.
+<b> Competition Goal </b>: help World Bank develop more efficient models for measuring poverty by identifying its strongest predictors based on survey data.
